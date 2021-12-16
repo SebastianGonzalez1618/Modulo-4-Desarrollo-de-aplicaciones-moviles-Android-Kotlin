@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="taxi_fragment">Taxi</string>
+    <string name="avion_fragment">Avión</string>
+    <string name="barco_fragment">Barco</string>
+</resources>

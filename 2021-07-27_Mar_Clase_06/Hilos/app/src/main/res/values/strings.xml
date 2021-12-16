@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hilos</string>
+    <string name="tv_contador_encabezado">Hilo: </string>
+    <string name="bt_iniciar">Iniciar</string>
+    <string name="bt_pausar">Pausar</string>
+    <string name="bt_continuar">Continuar</string>
+    <string name="bt_reiniciar">Reiniciar</string>
+    <string name="bt_detener">Detener</string>
+</resources>
